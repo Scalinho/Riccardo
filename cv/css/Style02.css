@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    margin: 70px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+h2 {
+    font-family: "PrincipaleBold";
+    color: #4db8ff;
+    margin-left: 50px;
+}
+
+p {
+    font-family: "Principale";
+    line-height: 150%;
+    margin-left: 50px;
+    color: #4db8ff;
+}
+
+h1 {
+    margin-top: 100px;
+    margin-left: 50px;
+    font-family: "PrincipaleBold";
+    font-size: xx-large;
+    color: #4db8ff;
+}
+
+.divTitolo {
+    display: flex;
+}

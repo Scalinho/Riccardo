@@ -1,0 +1,76 @@
+{
+    "Anagrafica": [
+        {
+            "id": "1",
+            "Immagine": "img/scala.jpg",
+            "Nome": "Riccardo",
+            "Cognome": "Scala",
+            "Eta": "18",
+            "Indirizzo": "Via Roma",
+            "Citta": "Lainate",
+            "Telefoni": [
+                {
+                    "Telefono1": "1234567890"
+                },
+                {
+                    "Telefono2": "0987654321"
+                }
+            ],
+            "Sport": [
+                {
+                    "Sport1": "pallanuoto"
+                },{
+                    "Sport2": "Frequentatore alcolisti anonimi"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "Immagine": "img/Bone.jpg",
+            "Nome": "Francesco ",
+            "Cognome": "Bonelli",
+            "Eta": "18",
+            "Indirizzo": "Via Firenze",
+            "Citta": "Lainate",
+            "Telefoni": [
+                {
+                    "Telefono1": "5647382910"
+                },
+                {
+                    "Telefono2": "6748392011"
+                }
+            ],
+            "Sport": [
+                {
+                    "Sport1": "Gambling"
+                },{
+                    "Sport2": "Frequentatore Sisal Milano"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "Immagine": "img/cic.png",
+            "Nome": "Matteo",
+            "Cognome": "Ciculi",
+            "Eta": "18",
+            "Indirizzo": "Via Bologna",
+            "Citta": "Genova",
+            "Telefoni": [
+                {
+                    "Telefono1": "9876543210"
+                },
+                {
+                    "Telefono2": "1122334455"
+                }
+            ],
+            "Sport": [
+                {
+                    "Sport1": "Gambling"
+                },{
+                    "Sport2": "Frequentatore Snai Lainate"
+                }
+            ]
+        }
+    ]
+}
